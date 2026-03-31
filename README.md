@@ -53,3 +53,4 @@ Example keys:
 source ~/smartparcel/venv/bin/activate
 cd ~/smartparcel
 python app.py
+
