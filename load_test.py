@@ -20,3 +20,4 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=20) as pool:
 
 for r in results:
     print(f"Request {r['id']}: {r['status']} in {r['time']}s - {r['body']}")
+
